@@ -305,6 +305,6 @@ int main() {
         }
         else cout << "Invalid choice!\n";
     }
-    cout << "\n=== Visualization Completed ✅ ===\n";
+    cout << "\n=== Visualization Completed ===\n";
     return 0;
 }
